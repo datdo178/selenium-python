@@ -1,5 +1,8 @@
+.git/
+.idea/
 .pytest_cache/
-./src/.pytest_cache/
-./src/allure-report/
-./src/bin/
-./src/lib
+src/.pytest_cache/
+src/__pycache__/
+src/allure-report/
+src/bin/
+src/lib
