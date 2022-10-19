@@ -1,0 +1,5 @@
+.pytest_cache/
+./src/.pytest_cache/
+./src/allure-report/
+./src/bin/
+./src/lib
